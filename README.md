@@ -6,3 +6,4 @@ feature 2
 feature 3
 feature 4
 hotfix2
+feature 5
